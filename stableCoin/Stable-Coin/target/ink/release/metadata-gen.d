@@ -1,0 +1,1 @@
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/release/metadata-gen: /home/rao/Downloads/sUSD/stableCoin/Stable-Coin/lib.rs /home/rao/Downloads/sUSD/stableCoin/oracle-contracts/oracle-getter/lib.rs /tmp/cargo-contract_Q4Cnge/.ink/metadata_gen/main.rs

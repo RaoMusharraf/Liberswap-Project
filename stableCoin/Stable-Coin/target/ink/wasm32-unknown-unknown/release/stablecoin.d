@@ -1,0 +1,1 @@
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/wasm32-unknown-unknown/release/stablecoin.wasm: /home/rao/Downloads/sUSD/stableCoin/Stable-Coin/lib.rs /home/rao/Downloads/sUSD/stableCoin/oracle-contracts/oracle-getter/lib.rs

@@ -1,0 +1,11 @@
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/release/deps/libink_metadata-c5fb6c87a6b2a407.rmeta: /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/lib.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/layout/mod.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/layout/validate.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/specs.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/utils.rs
+
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/release/deps/libink_metadata-c5fb6c87a6b2a407.rlib: /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/lib.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/layout/mod.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/layout/validate.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/specs.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/utils.rs
+
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/release/deps/ink_metadata-c5fb6c87a6b2a407.d: /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/lib.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/layout/mod.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/layout/validate.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/specs.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/utils.rs
+
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/lib.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/layout/mod.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/layout/validate.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/specs.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.3.0/src/utils.rs:

@@ -1,0 +1,11 @@
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/release/deps/libcargo_metadata-79456e2068e98b62.rmeta: /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/release/deps/libcargo_metadata-79456e2068e98b62.rlib: /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/release/deps/cargo_metadata-79456e2068e98b62.d: /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs:

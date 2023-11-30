@@ -1,0 +1,11 @@
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/release/deps/liblinux_raw_sys-b1a0d81ae9a89a91.rmeta: /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/lib.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/elf.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/errno.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/general.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/ioctl.rs
+
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/release/deps/liblinux_raw_sys-b1a0d81ae9a89a91.rlib: /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/lib.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/elf.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/errno.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/general.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/ioctl.rs
+
+/home/rao/Downloads/sUSD/stableCoin/Stable-Coin/target/ink/release/deps/linux_raw_sys-b1a0d81ae9a89a91.d: /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/lib.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/elf.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/errno.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/general.rs /home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/ioctl.rs
+
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/lib.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/elf.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/errno.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/general.rs:
+/home/rao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/ioctl.rs:
